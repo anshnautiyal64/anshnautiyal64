@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ansh Nautiyal</h1>
-<h3 align="center">Aspiring Software Developer | DSA | C++ | Python | Problem Solving | Building projects & growing daily 🚀</h3>
+<h3 align="center">Aspiring Software Developer | DSA | C++ | Java | Problem Solving | Building projects & growing daily 🚀</h3>
 
 ---
 
